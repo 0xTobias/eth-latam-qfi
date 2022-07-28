@@ -71,7 +71,8 @@ export const LandingPage = () => {
       </VStack>
 
       <MagikText
-        text="Quadratic Funding is an optimal way to fund public goods in a democratic society. Through QF people can
+        text="THIS WAS CHANGED BY ETHLATAM
+        Quadratic Funding is an optimal way to fund public goods in a democratic society. Through QF people can
       contribute to a crowdfunding campaign and their contributions will be matched via a clever formula that
       maximizes the marginal utility of the group. We are pushing for adoption of QF inside and out of the Ethereum
       Ecosystem and are looking for partners that would like to adopt the mechanism in their community."
